@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shinta3456
-- 👀 I’m interested in programming, 
+- 👀 I’m interested in Front End developer, 
 - 🌱 I like work hard, discipline, totality, and positive thinking
 
 <!---
